@@ -1,4 +1,4 @@
-# Internationalising (i18n) Next.js project using [react-intl](https://formatjs.io/docs/react-intl/)
+# Internationalising (i18n) Next.js project using [react-i18next](https://react.i18next.com/)
 This is a simple example of how to use `react-intl` in your [Next.js](https://nextjs.org/) project. You will be able to implement this in your [React](https://reactjs.org/) project as well.
 
 ## Usage
