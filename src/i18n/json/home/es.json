@@ -1,0 +1,13 @@
+{
+    "welcome": "Bienvenida a <a href='https://nextjs.org'>Next.js!</a>",
+    "getting-started": "Empiece por editar <code>pages/index.js</code>",
+    "documentation-title": "Documentación ",
+    "documentation-text": "Encuentre información detallada sobre las características y la API de {{framework}}.",
+    "learn-title": "Aprende ",
+    "learn-text": "¡Aprenda sobre {{framework}} en un curso interactivo con cuestionarios!",
+    "examples-title": "Ejemplos ",
+    "examples-text": "Descubra e implemente proyectos estándar de {{framework}} de ejemplo.",
+    "deploy-title": "Implementar ",
+    "deploy-text": "Implemente instantáneamente su sitio {{framework}} en una URL pública con {{vercel}}.",
+    "powered-by": "impulsado por {{vercel}}"
+}
